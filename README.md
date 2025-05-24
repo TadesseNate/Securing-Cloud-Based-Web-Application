@@ -1,7 +1,7 @@
 # Securing-Cloud-Based-Web-Application
 
 
-<h2 style="font-size: 24px; text-align: center;">1. Project Overview</h2>	
+<h2 style="font-size: 24px; text-align: center;"> Project Overview</h2>	
 
 
 
